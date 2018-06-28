@@ -1,0 +1,48 @@
+
+body {
+  font-size: 14px;
+}
+
+/* This is the navigation */
+nav {
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+/* This section belongs to the rectangles */
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/* Heading h1 */
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+/* Treatment of heading h3 and span text */
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+/* Title in the rectangles */
+h3 {
+  font-size: 1.3em;
+}
+
+/* These are the rectangles going across */
+.element {
+  background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.yellow {
+  background-color: yellow;
+}
